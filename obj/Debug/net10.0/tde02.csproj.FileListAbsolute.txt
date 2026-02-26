@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\aula02\tde02\bin\Debug\net10.0\tde02.exe
+C:\Users\Usuário\Desktop\aula02\tde02\bin\Debug\net10.0\tde02.deps.json
+C:\Users\Usuário\Desktop\aula02\tde02\bin\Debug\net10.0\tde02.runtimeconfig.json
+C:\Users\Usuário\Desktop\aula02\tde02\bin\Debug\net10.0\tde02.dll
+C:\Users\Usuário\Desktop\aula02\tde02\bin\Debug\net10.0\tde02.pdb
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\tde02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\tde02.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\tde02.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\tde02.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\tde02.sourcelink.json
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\tde02.dll
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\refint\tde02.dll
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\tde02.pdb
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\tde02.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\aula02\tde02\obj\Debug\net10.0\ref\tde02.dll
